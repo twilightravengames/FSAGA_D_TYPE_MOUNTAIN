@@ -1,0 +1,3 @@
+M ../crossexectuablefunctions.cpp
+D /Users/waltergress/Documents/workspace/Fantasy Saga D-Type/Debug
+A '-mmacosx-version-min=10.7.3' '-O0' '-g3' '-Wall' '-c' '-fmessage-length=0' '-frepo' '-MMD' '-MP' '-MFcrossexectuablefunctions.d' '-MTcrossexectuablefunctions.d' '-m64' '-o' 'crossexectuablefunctions.o' '-shared-libgcc' '-mtune=core2' '-frandom-seed=0xa53e716'

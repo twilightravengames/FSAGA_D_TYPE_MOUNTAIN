@@ -1,0 +1,29 @@
+﻿Build started 3/27/2011 12:56:47 AM.
+     1>Project "C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Fantasy Saga D Type\Fantasy Saga D Type.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Fantasy Saga D Type.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt crossexectuablefunctions.cpp
+         crossexectuablefunctions.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Debug\Fantasy Saga D Type.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "allegro-5.0.1-monolith-md-debug.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Fantasy Saga D Type.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Debug\Fantasy Saga D Type.pdb;" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Debug\Fantasy Saga D Type.lib" /MACHINE:X86 "Debug\Fantasy Saga D Type.exe.embed.manifest.res"
+         Debug\crossexectuablefunctions.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Fantasy Saga D Type.exe.embed.manifest" /manifest "Debug\Fantasy Saga D Type.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Fantasy Saga D Type.vcxproj -> C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Debug\Fantasy Saga D Type.exe
+       BscMake:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Debug\Fantasy Saga D Type.bsc" Debug\crossexectuablefunctions.sbr Debug\main.sbr
+       FinalizeBuildStatus:
+         Deleting file "Debug\Fantasy Saga D Type.unsuccessfulbuild".
+         Touching "Debug\Fantasy Saga D Type.lastbuildstate".
+     1>Done Building Project "C:\Users\Ted\Documents\Visual Studio 2010\Projects\Fantasy Saga D Type VS 2010 Project\Fantasy Saga D Type\Fantasy Saga D Type.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.42

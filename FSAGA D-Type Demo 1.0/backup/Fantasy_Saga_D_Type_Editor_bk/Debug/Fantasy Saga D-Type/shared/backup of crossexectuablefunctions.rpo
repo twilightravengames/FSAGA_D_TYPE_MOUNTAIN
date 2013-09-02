@@ -1,0 +1,3 @@
+M /Users/waltergress/Documents/workspace/Fantasy Saga D-Type/shared/backup of crossexectuablefunctions.cpp
+D /Users/waltergress/Documents/workspace/Fantasy Saga D-Type Editor/Debug
+A '-mmacosx-version-min=10.7.4' '-I/Users/waltergress/Documents/workspace/Fantasy Saga D-Type' '-O0' '-g3' '-Wall' '-c' '-fmessage-length=0' '-frepo' '-MMD' '-MP' '-MFFantasy Saga D-Type/shared/backup of crossexectuablefunctions.d' '-MTFantasy\ Saga\ D-Type/shared/backup\ of\ crossexectuablefunctions.d' '-m64' '-o' 'Fantasy Saga D-Type/shared/backup of crossexectuablefunctions.o' '-shared-libgcc' '-mtune=core2' '-frandom-seed=0x1d4d680e'

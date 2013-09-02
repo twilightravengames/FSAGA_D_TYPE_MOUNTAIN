@@ -1,0 +1,3 @@
+M ../shared/backup/crossexectuablefunctions.cpp
+D /Users/waltergress/git/fantasy-saga-d-type/Fantasy Saga D-Type/Debug
+A '-mmacosx-version-min=10.7.4' '-I/usr/local/include' '-I/Users/waltergress/git/fsaga_d_editor/Fantasy_Saga_D_Type_Editor/shared' '-O0' '-g3' '-Wall' '-c' '-fmessage-length=0' '-frepo' '-MMD' '-MP' '-MFshared/backup/crossexectuablefunctions.d' '-MTshared/backup/crossexectuablefunctions.d' '-m64' '-o' 'shared/backup/crossexectuablefunctions.o' '-shared-libgcc' '-mtune=core2' '-frandom-seed=0xdb49ae6e'

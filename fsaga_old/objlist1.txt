@@ -1,0 +1,33 @@
+Barrel
+Bed
+Double Window (opens like shutters-outward)
+crate (i need three different types)
+barrels (2 types)
+table 
+chairs (2 types)
+books
+bookshelf
+lantern
+rug (3 types)
+treasure chest 
+torch
+metal shield (2 types)
+wooden shield (2 types)
+pillar (like in greek temple things)
+bookstand (like in diablo how they have books on book stands and
+           you can click on them and open them)
+jail cell
+stairway (with railing)
+stairway (no railing)
+weapon shop sign
+magic shop sign
+inn sign
+trainer sign
+relic shop sign
+item shop sign
+pillarstand holding an orb (almost like a claw)
+banquet table
+futuristic looking throne
+
+
+----FINISH BY MAY 15-----

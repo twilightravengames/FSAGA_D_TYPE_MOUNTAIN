@@ -1,0 +1,20 @@
+Animation - Work Hours
+
+
+
+[Walk]
+
+- Idle - remake 1 Hours
+- Up - 2 Hours
+- Down - 4 Hours 30 Minutes
+- Left - 3 Hours 30 Minutes
+- Right - 2 sec (cause it was just flipped)
+- Up Right - 3 Hours
+- Up Left - 2 sec (Flipped)
+- Down Right - 4 Hours
+- Down Left - 2 sec (Flipped)
+
+-Final touch-ups ALL animations - 2 hours
+
+Total Hours: 20 hours
+

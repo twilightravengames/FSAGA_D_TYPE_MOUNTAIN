@@ -1,0 +1,5 @@
+Ground color: #78cb40
+
+R: 120
+G: 203
+B: 64

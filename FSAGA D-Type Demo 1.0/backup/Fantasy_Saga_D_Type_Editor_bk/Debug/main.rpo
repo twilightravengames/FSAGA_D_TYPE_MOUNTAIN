@@ -1,0 +1,3 @@
+M ../main.cpp
+D /Users/waltergress/Documents/workspace/Fantasy Saga D-Type Editor/Debug
+A '-mmacosx-version-min=10.7.4' '-I/Users/waltergress/Documents/workspace/Fantasy Saga D-Type' '-O0' '-g3' '-Wall' '-c' '-fmessage-length=0' '-frepo' '-MMD' '-MP' '-MFmain.d' '-MTmain.d' '-m64' '-o' 'main.o' '-shared-libgcc' '-mtune=core2' '-frandom-seed=0x27fc24af'
